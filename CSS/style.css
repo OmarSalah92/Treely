@@ -1,0 +1,17 @@
+P {
+
+    color: burlywood;
+
+    margin-top: 50px;
+}
+
+.row {
+    row-gap: 70px;
+    column-gap: 17px;
+}
+
+
+.card-img-top1 {
+
+height: 148px;
+}
